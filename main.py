@@ -1,4 +1,4 @@
-#comentario para que funcione esto
+#comentario para que funcione este programa
 
 from calculadora import sumar, restar, multiplicar, dividir
 
