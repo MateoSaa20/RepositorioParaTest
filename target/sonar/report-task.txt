@@ -1,0 +1,7 @@
+organization=mateosaa20
+projectKey=mateosaa20_RepositorioParaTest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.93576
+dashboardUrl=https://sonarcloud.io/dashboard?id=mateosaa20_RepositorioParaTest
+ceTaskId=AZ8Bth2HcKSByF-xegjK
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ8Bth2HcKSByF-xegjK
